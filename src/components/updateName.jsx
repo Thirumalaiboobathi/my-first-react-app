@@ -18,7 +18,7 @@ export function MyPilot() {
             <p>Name: <b>{state.name}</b></p>
             <img
                 src={state.imageSrc}
-                alt="My Image"
+                alt="mahi"
                 style={{
                     width: '500px', // Set width
                     height: 'auto', // Maintain aspect ratio
